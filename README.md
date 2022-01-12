@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello! Samuel Sieberg is my name and this my Github 🦎
+### Some Infos about me:
+- ⌚ Game design student and part time software dev
+- 🌳 Good knowledge in C# and Java
+- 🌱 Some knowledge in HLSL, HTML, CSS and SQL
+
+### I'll put up a site for blogs too soon!
 
 <!--
 **Exsolid/Exsolid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
