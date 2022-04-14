@@ -4,7 +4,7 @@
 - 🌳 Good knowledge in C# and Java
 - 🌱 Some knowledge in HLSL, HTML, CSS and SQL
 
-### I'll put up a site for blogs too soon!
+### For more infos about my projects, check out https://exsolid.com/!
 
 <!--
 **Exsolid/Exsolid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
